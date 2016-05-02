@@ -1,4 +1,4 @@
-< *There's a phrase in Buddhism, 'Beginner's mind.' It's wonderful to have a beginner's mind.*
+> *There's a phrase in Buddhism, 'Beginner's mind.' It's wonderful to have a beginner's mind.*
 
 ### 学习计划
 * ### 阅读书籍
