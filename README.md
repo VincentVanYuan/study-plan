@@ -1,6 +1,6 @@
 > There's a phrase in Buddhism, 'Beginner's mind.' It's wonderful to have a beginner's mind.
 
-### 学习
+### 学习计划
 * #####阅读书籍
 	* Effective Java中文版（第2版）
 	* 深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）
@@ -16,8 +16,8 @@
 	* 实战Java虚拟机：JVM故障诊断与性能优化
 	* 实战Java高并发程序设计
 * #####技术研究
-	1. jdk/jre, jvm/jmm
-	2. spring, mybatis
-	3. mysql, sql
-	4. svn, git
-	5. uml
+	* jdk/jre, jvm/jmm
+	* spring, mybatis
+	* mysql, sql
+	* svn, git
+	* uml
