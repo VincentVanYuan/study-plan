@@ -1,6 +1,6 @@
 > *There's a phrase in Buddhism, 'Beginner's mind.' It's wonderful to have a beginner's mind.*
 
-### 学习计划
+#### 学习计划
 * 阅读书籍
 	* Effective Java中文版（第2版）
 	* 深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）
