@@ -25,3 +25,4 @@
 	* Maven
 	* Linux
 	* Tomcat
+	* 分布式
