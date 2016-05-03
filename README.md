@@ -16,9 +16,10 @@
 	* 大型网站系统与Java中间件实践
 	* 从Paxos到Zookeeper分布式一致性原理与实践
 * **技术研究**
-	* JDK/JRE, JVM/JMM
-	* Spring, Mybatis
-	* MySQL, SQL
-	* SVN, Git
-	* UML
-	* 分布式
+	* Spring
+	* Mybatis
+	* SQL
+	* Git
+	* IDEA
+	* Maven
+	* Linux
