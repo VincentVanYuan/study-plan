@@ -21,3 +21,4 @@
 	* mysql, sql
 	* svn, git
 	* uml
+	* 分布式
