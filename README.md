@@ -25,4 +25,6 @@
 	* Maven
 	* Linux
 	* Tomcat
-	* 分布式
+	* 分布式与集群
+	* 微服务
+	* JDK/JRE
