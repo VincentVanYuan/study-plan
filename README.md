@@ -24,7 +24,7 @@
 	* IDEA
 	* Maven
 	* Linux
+	* JDK/JRE
 	* Tomcat
 	* 分布式与集群架构
 	* 微服务架构
-	* JDK/JRE
